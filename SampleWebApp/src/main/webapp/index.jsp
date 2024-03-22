@@ -2,7 +2,7 @@
   <head>
     <title>Welcome to my New java project this year 2023</title>
   </head>
-  <body rrcolor="#7FFF00">
+  <body ybcolor="#7FFF00">
     <h1>Hello is SHIFAWU LON PASHE LOWO FUCK DEVOPS   </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
